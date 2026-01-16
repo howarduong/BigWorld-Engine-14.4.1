@@ -41,3 +41,7 @@ Instructions on _how_ to contribute can be found in [CONTRIBUTING](CONTRIBUTING.
 <a href="https://sourceforge.net/p/bigworld/code/HEAD/tree/" target="_blank">Forked from </a>
 
 <a href="https://drive.google.com/file/d/1hLm_Ox0v-xIen8c4MvwRHQhkutf9bIpK/view?usp=share_link" target="_blank">Full resources link</a>
+
+构建教学连接，来自中文社区，感谢antsmallant 作者
+https://blog.antsmallant.top/2024/06/18/gamesvr-study-1-bigworld-engine-compile-and-run
+
